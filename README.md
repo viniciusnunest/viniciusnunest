@@ -2,8 +2,6 @@
 <h3 align="center">A passionate data from Brazil</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciusnunest" alt="viniciusnunest" /></a> </p>
-
 - 🔭 I’m currently working on [loft-br](https://github.com/loft-br)
 
 - 🌱 I’m currently learning **IaC using Pulumi**
