@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data from Brazil</h3>
 
 
-- 🔭 I’m currently working on [loft-br](https://github.com/loft-br)
+- 🔭 I’m currently working on [trustly]
 
 - 🌱 I’m currently learning **IaC using Pulumi**
 
