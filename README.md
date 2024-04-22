@@ -2,9 +2,9 @@
 <h3 align="center">A passionate data from Brazil</h3>
 
 
-- 🔭 I’m currently working on [trustly](https://github.com/trustly)
+- 🔭 I’m currently working on MileIQ
 
-- 🌱 I’m currently learning **IaC using Pulumi**
+- 🌱 I’m currently learning **Analytics using AI**
 
 - 💬 Ask me about **AWS, Databricks, Airflow, Airbyte, Stitch, DBT, Looker, Metabase, Tableau**
 
