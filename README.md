@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Analytics using AI**
 
-- 💬 Ask me about **AWS, Databricks, Airflow, Airbyte, Stitch, DBT, Looker, Metabase, Tableau**
+- 💬 Ask me about **AWS, Azure, Databricks, Snowflake, Airflow, Airbyte, Stitch, DBT, Looker, Omni, Metabase, Tableau**
 
 - 📫 How to reach me **vinicius.nunestavares@gmail.com**
 
