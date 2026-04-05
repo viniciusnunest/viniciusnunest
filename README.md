@@ -2,11 +2,11 @@
 <h3 align="center">A passionate data from Brazil</h3>
 
 
-- 🔭 I’m currently working on MileIQ
+- 🔭 I’m currently working at Salve.co
 
 - 🌱 I’m currently learning **Analytics using AI**
 
-- 💬 Ask me about **AWS, Azure, Databricks, Snowflake, Airflow, Airbyte, Stitch, DBT, Looker, Omni, Metabase, Tableau**
+- 💬 Ask me about **AWS, Azure, Databricks, Snowflake, Airflow, Airbyte, Stitch, DBT, Looker, Omni, Metabase, Tableau, everything platform based, modeling or analytics based**
 
 - 📫 How to reach me **vinicius.nunestavares@gmail.com**
 
